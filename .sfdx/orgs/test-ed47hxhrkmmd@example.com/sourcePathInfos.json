@@ -1,0 +1,242 @@
+[
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551355729429,
+            "changeTime": 1551355810837,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551355729430,
+            "changeTime": 1551355810840,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551355729437,
+            "changeTime": 1551355810844,
+            "contentHash": "5a59808faeadcb6c1980ea5ba1d91e0d853cb752",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551355729433,
+            "changeTime": 1551355810847,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9898,
+            "modifiedTime": 1551355729431,
+            "changeTime": 1552381198830,
+            "contentHash": "a5668b98af4d945295056a1d623f54409c6fd097",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9848,
+            "modifiedTime": 1551355729432,
+            "changeTime": 1552381198831,
+            "contentHash": "abd94aceef765cd770071b4f7929b9a3ffeec423",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9898,
+            "modifiedTime": 1551355729433,
+            "changeTime": 1552381198832,
+            "contentHash": "16ca7b29b1391ddd32731eff4af37305c7449051",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9848,
+            "modifiedTime": 1551355729433,
+            "changeTime": 1552381198833,
+            "contentHash": "5fe8795a4af966c12747feb27f6e062e4c45eac4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\lwc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551355729435,
+            "changeTime": 1551355810850,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551355729436,
+            "changeTime": 1551355810863,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551355729436,
+            "changeTime": 1551355810866,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551355729437,
+            "changeTime": 1551355810872,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1551884147781,
+            "changeTime": 1552381198838,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551355729438,
+            "changeTime": 1551355810853,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 701,
+            "modifiedTime": 1551884147784,
+            "changeTime": 1552381198840,
+            "contentHash": "193557e5a4b0b5626016ff439f0bb664b1d06ee1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ablidaru\\OneDrive\\OneDrive - ENDAVA\\Documents\\GitHub\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551355961643,
+            "changeTime": 1551355961643,
+            "contentHash": "4a73e8ffb7ba37e044c1e837bf5fcc55e61ae4e3",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

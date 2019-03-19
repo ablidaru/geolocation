@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "E-he-he",
+            "Location__Latitude__s": 42.585444,
+            "Location__Longitude__s": 68.940968
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "ICS Chisinau",
+            "Location__Latitude__s": 47.024735,
+            "Location__Longitude__s": 28.820921
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Io-ho-ho",
+            "Location__Latitude__s": 13.159725,
+            "Location__Longitude__s": 14.534125
+        }
+    ]
+}
